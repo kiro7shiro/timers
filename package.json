@@ -1,0 +1,8 @@
+{
+  "name": "timers",
+  "version": "1.0.0",
+  "description": "Count ticks of a loop.",
+  "main": "index.js",
+  "author": "kiro7shiro",
+  "license": "ISC"
+}
