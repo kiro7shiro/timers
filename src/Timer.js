@@ -38,8 +38,6 @@ class Timer {
      * @param {Object} [options]
      * @param {Number} [options.now] Timestamp to use for the tick in milliseconds e.g. Date.now().
      *                               Useful if you want to use a specific time to use.
-     * @param {String} [options.label] Create a sub timer with a label.
-     * @param {Object} [options.options] Options for the sub timer.
      * @returns {Boolean}
      */
     tick({ now = 0 } = {}) {
